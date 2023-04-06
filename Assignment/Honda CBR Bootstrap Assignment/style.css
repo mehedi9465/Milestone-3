@@ -1,0 +1,70 @@
+header{
+    background-color: #264653;
+}
+
+.home{
+    background-color: #264653;
+}
+
+#purchase{
+    background-color: #E76F51;
+}
+
+#Gray{
+    -webkit-filter: grayscale(100%);
+}
+
+.feature-bike p{
+    color: #E76F51;
+    font-weight: bolder;
+}
+
+.feature-bike p span{
+    border-bottom: 1px solid #E76F51;
+    padding-bottom: 5px;
+}
+
+.happy-client h1{
+    color: #E76F51
+}
+
+.happy-client h1 span{
+    color: black;
+}
+
+.card img{
+    width: 35%;
+}
+
+.card-body p{
+    color: gray;
+    font-weight: 500;
+}
+
+.fas, .far{
+    color: #E76F51;
+}
+
+.client-name{
+    color: #23A6F0 !important;
+}
+
+.asked-questions h1 span{
+    color: #E76F51;
+}
+
+.apple{
+    width: 140px;
+    height: 45px;
+}
+
+.bike-reviews iframe{
+    resize: both;
+    overflow: auto;
+    margin: 0px 45px;
+    border-radius: 20px;
+}
+
+.bike-reviews h1 span{
+    color: #E76F51;
+}
